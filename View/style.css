@@ -1,0 +1,61 @@
+#nav-button {
+  background-color: #6152a2;
+  border-radius: 10px;
+  color: white;
+  font-weight: bolder;
+}
+
+body {
+  font-family: "Quicksand";
+  /* background-image: url("./banners/bg-landing.png"); */
+  background-repeat: no-repeat;
+  overflow: hidden;
+}
+
+.nav-link {
+  color: #6152a2;
+  font-size: large;
+}
+
+#bg-banner-1 {
+  height: 600px;
+  width: 600px;
+  padding: 20px;
+  margin-right: 100px;
+  border: solid;
+  border-color: transparent;
+  border-radius: 10px;
+}
+
+#bg-banner {
+  height: 350px;
+  width: 350px;
+  margin-left: 100px;
+  border: 10px;
+  padding: 20px;
+  border: solid;
+  border-color: transparent;
+  border-radius: 10px;
+}
+
+#bold-apa {
+  color: #6152a2;
+  font-weight: 600;
+  font-size: 40px;
+}
+
+.p-2 {
+  margin: 20px;
+
+  color: #403474;
+}
+
+.get-started {
+  border: solid;
+  border-color: transparent;
+  border-radius: 30px;
+  background-color: #6152a2;
+  color: white;
+  font-weight: bolder;
+  font-size: 45px;
+}
